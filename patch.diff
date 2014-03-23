@@ -1,0 +1,24 @@
+From 4d74ad1e20241f3a199ceb28ef9ce565e0303596 Mon Sep 17 00:00:00 2001
+From: Teerapop Samuttranuphap <tomori.top@gmail.com>
+Date: Sun, 23 Mar 2014 01:24:29 -0700
+Subject: [PATCH] powerFull
+
+---
+ TTT.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/TTT.html b/TTT.html
+index 39f6599..732f822 100644
+--- a/TTT.html
++++ b/TTT.html
+@@ -5,6 +5,7 @@
+ 		<h1>sad  I so Happy</h1>
+ 		<br>*-*-*-*-*-*-*-*-*--*</br>
+ 		 <hr> U R Any lonely </hr>
++		 <hr>Anytime Any ware </hr>
+ 	</body>
+ </head>
+ 
+-- 
+1.8.3.msysgit.0
+
